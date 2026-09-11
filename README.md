@@ -4,7 +4,7 @@
 <div align="center">
   <!-- Native Embedded CSS Typographic Card -->
   <div style="background: linear-gradient(135deg, #012030 0%, #13678A 100%); padding: 30px; border-radius: 12px; box-shadow: 0 4px 15px rgba(0,0,0,0.3); border: 2px solid #45C4B0; max-width: 600px; margin: 20px auto;">
-    <h1 style="color: #9AE6B4; margin: 0 0 10px 0; font-family: 'Fira Code', monospace; font-size: 28px; text-shadow: 0 0 10px rgba(154,230,180,0.3);">NumPy Analyzer CLI</h1>
+    <h1 style="color: #9AE6B4; margin: 0 0 10px 0; font-family: 'Fira Code', monospace; font-size: 28px; text-shadow: 0 0 10px rgba(154,230,180,0.3);">NumPy Analyzer </h1>
     <p style="color: #E2E8F0; margin: 0; font-family: system-ui, sans-serif; font-size: 15px; line-height: 1.5;">
       An interactive Matrix Processing Suite. Compute advanced vector mathematics, statistical distributions, and array transformations natively inside your console shell.
     </p>
